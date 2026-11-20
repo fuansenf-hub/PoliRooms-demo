@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "PoliRooms-demo-2026-10-29-08-30-10.sln"
+    "dotnet.defaultSolution": "PoliRooms demo.sln"
 }
